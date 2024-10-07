@@ -48,5 +48,6 @@ Este projeto está licenciado sob a **MIT License**. -->
 ---
 
 <p style="text-align: center;">
-  Desenvolvido por **Maycon Rocha** <a href="mailto:mgr8272@gmail.com">mgr8272@gmail.com</a>.
+  Desenvolvido por <a href="mailto:mgr8272@gmail.com">Maycon Rocha</a>.
 </p>
+
